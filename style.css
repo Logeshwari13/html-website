@@ -93,7 +93,7 @@ ul li a:hover{
     height: 40px;
     background: #ff7200;
     border: 2px solid #ff7200;
-    margin-top: 13px;
+    margin-top: 6px;
     color: #fff;
     font-size: 15px;
     border-bottom-right-radius: 5px;
@@ -209,7 +209,7 @@ ul li a:hover{
     font-family: Arial;
 }
 
-.btn{
+.btn2{
     width: 240px;
     height: 40px;
     background: #ff7200;
@@ -222,12 +222,12 @@ ul li a:hover{
     transition: 0.4s ease;
 }
 
-.btn:hover{
+.btn2:hover{
     background: #fff;
     color: #ff7200;
 }
 
-.btn a{
+.btn2 a{
     text-decoration: none;
     color: #000;
     font-weight: bold;
